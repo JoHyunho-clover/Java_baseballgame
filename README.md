@@ -1,2 +1,2 @@
-# Java_baseballgame
-숫자아구게임
+# 숫자아구게임
+# 방법
