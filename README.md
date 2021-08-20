@@ -26,6 +26,8 @@ RandomNumThree : 컴퓨터에서 난수로써 서로 다른 숫자로 1~9까지 
   3스트라이크
   3개의 숫자를 모두 맞히셨습니다! 게임 종료
   
-  실행결과예시
+  실행결과 예시
+  
+  
   ![image](https://user-images.githubusercontent.com/78728072/130182715-16d7f543-3882-4a26-ba49-5d830a07a6d1.png)
 
